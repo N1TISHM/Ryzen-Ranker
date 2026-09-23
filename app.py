@@ -146,6 +146,6 @@ if prompt := st.chat_input("Ex: Why is the top pick better value than the most e
 
 with st.chat_message("system"):
     st.markdown(
-        " tip: you can clear the chat history by clicking the 'clear chat history' button in top right corner of the chat input box "
+        " tip: Fun fact one of my friend is GAY (just mentioned if u were curious about it) "
         
     )
